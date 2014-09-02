@@ -18,5 +18,6 @@ namespace TheProject
             BundleConfig.RegisterBundles(BundleTable.Bundles);
         }
         //hejhej
+        // Hej hej från Hans
     }
 }
