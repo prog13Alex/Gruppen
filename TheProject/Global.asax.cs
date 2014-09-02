@@ -18,7 +18,7 @@ namespace TheProject
             BundleConfig.RegisterBundles(BundleTable.Bundles);
         }
         //hejhej
-        // Hej hej från Hans
+  
         // Tjenare! ALEXALEX by aLx
         // Whatever från Hassepower
         //Rickard testar igen
