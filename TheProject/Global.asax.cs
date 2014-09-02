@@ -19,7 +19,7 @@ namespace TheProject
         }
         //hejhej
         // Hej hej från Hans
-        // Tjenare! by aLx
+        // Tjenare! ALEXALEX by aLx
         // Whatever från Hassepower
     }
 }
